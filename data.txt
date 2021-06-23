@@ -1,0 +1,9 @@
+file  文件
+commit  提交
+cancel  取消
+branch  分支
+request  网络请求
+code 编码，代码
+new 新的
+add 添加（添加和创建有区别，比如对添加商品，创建订单）
+create 创建
